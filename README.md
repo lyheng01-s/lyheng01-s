@@ -148,3 +148,34 @@ I love turning raw data into powerful insights and building intelligent solution
 - Building AI projects that solve real-world problems
 - Exploring data-driven solutions related to the Sustainable Development Goals (SDGs)
 - Applying AI and data science to create positive impact in Cambodia and beyond
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lyheng01-s&show_icons=true&theme=graywhite" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyheng01-s&layout=compact&theme=graywhite" height="160"/>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:SiengLyheng1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-64748B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-64748B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lyheng01-s">
+    <img src="https://img.shields.io/badge/GitHub-lyheng01--s-64748B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  "Data is not just numbers — it is a story waiting to be discovered."
+</p>
