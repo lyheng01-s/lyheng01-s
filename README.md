@@ -21,8 +21,6 @@ I love turning raw data into powerful insights and building intelligent solution
 
 ---
 
----
-
 ## Skills & Tools
 
 <table>
@@ -150,6 +148,30 @@ I love turning raw data into powerful insights and building intelligent solution
 - Applying AI and data science to create positive impact in Cambodia and beyond
 
 ---
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **Automatic License Plate Recognition in Cambodia (ALPRC)** | A real-time AI system that detects and recognizes Cambodian vehicle license plates using YOLOv8 and OCR. It supports traffic monitoring, surveillance, and smart city development. | Python, YOLOv8, PaddleOCR, EasyOCR, Roboflow, Flask |
+| **HIV Molecules Inhibitors Classification** | A deep learning project that classifies whether molecules have potential HIV inhibitory activity using molecular graph structures. It supports early-stage drug discovery by predicting promising anti-HIV compounds. | Python, GNN, Graph Transformer Network, PyTorch Geometric, RDKit, MoleculeNet |
+| **Hacker News Post Success Prediction** | A data science project that scrapes Hacker News posts, analyzes engagement patterns, and uses machine learning models to predict whether posts will get high comments or high upvotes. | Python, Requests, BeautifulSoup, Pandas, Matplotlib, Scikit-learn |
+| **Car Price Prediction** | A machine learning project that predicts Ford used car prices based on model, year, mileage, fuel type, transmission, tax, mpg, and engine size. It also includes a Streamlit web tool for price estimation. | Python, Pandas, Scikit-learn, Multiple Linear Regression, Joblib, Streamlit |
+| **Alphabet Recognition** | A deep learning project that recognizes handwritten English alphabets from A–Z using CNN and AlexNet-inspired models. It supports early literacy learning through handwriting recognition. | Python, TensorFlow/Keras, CNN, AlexNet-inspired Model, NumPy, Matplotlib |
+
+---
+
+## Other Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **Library Management System** | A web-based Django system for managing books, members, borrowing, returns, fines, reservations, feedback, and reports. It replaces manual paper records with a digital platform for easier access and better organization. | Django, Python, MySQL, MySQL Workbench, HTML, CSS, JavaScript |
+| **Employee Management System** | A console-based Employee Information Management System using CSV/Excel files to store employee data. It supports admin CRUD operations and employee profile updates. | C++ |
+| **Calculator using Assembly Language** | A simple assembly calculator for the SMZ32V50 microcontroller. It performs addition and subtraction from 0 to 99 and displays input/output using a 7-segment display. | SMZ32V50 Assembly |
+
+---
+
 
 ## GitHub Stats
 
