@@ -158,6 +158,10 @@ I love turning raw data into powerful insights and building intelligent solution
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyheng01-s&layout=compact&theme=graywhite" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lyheng01-s&theme=graywhite&hide_border=false" height="160"/>
+</p>
+
 ---
 
 ## Connect With Me
