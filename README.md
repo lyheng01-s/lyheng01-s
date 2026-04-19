@@ -21,9 +21,17 @@ I love turning raw data into powerful insights and building intelligent solution
 
 ---
 
+---
+
 ## Skills & Tools
 
-<table align="center">
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+### Skills & Tools
+
+<table>
   <tr>
     <td align="center"><b>Programming Languages</b></td>
     <td>
@@ -87,44 +95,47 @@ I love turning raw data into powerful insights and building intelligent solution
   </tr>
 </table>
 
----
+</td>
 
-## Skill Confidence
+<td width="40%" valign="top">
 
-<table align="center">
+### Skill Confidence
+
+<table>
   <tr>
     <th>Skill Area</th>
-    <th>Confidence</th>
     <th>Level</th>
   </tr>
   <tr>
     <td>Python & Data Analysis</td>
-    <td>█████████░</td>
-    <td>90%</td>
+    <td>█████████░ 90%</td>
   </tr>
   <tr>
     <td>SQL & Databases</td>
-    <td>████████░░</td>
-    <td>80%</td>
+    <td>████████░░ 80%</td>
   </tr>
   <tr>
     <td>Power BI & Excel</td>
-    <td>███████░░░</td>
-    <td>70%</td>
+    <td>███████░░░ 70%</td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td>███████░░░ 70%</td>
   </tr>
   <tr>
     <td>R Programming</td>
-    <td>██████░░░░</td>
-    <td>60%</td>
+    <td>██████░░░░ 60%</td>
   </tr>
   <tr>
     <td>Web Development</td>
-    <td>█████░░░░░</td>
-    <td>50%</td>
+    <td>█████░░░░░ 50%</td>
   </tr>
   <tr>
     <td>Big Data / PySpark</td>
-    <td>█████░░░░░</td>
-    <td>50%</td>
+    <td>█████░░░░░ 50%</td>
   </tr>
+</table>
+
+</td>
+</tr>
 </table>
