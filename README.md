@@ -21,37 +21,110 @@ I love turning raw data into powerful insights and building intelligent solution
 
 ---
 
----
-
----
-
 ## Skills & Tools
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-64748B?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-64748B?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-64748B?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-64748B?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-64748B?style=for-the-badge&logo=cplusplus&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center"><b>Programming Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-64748B?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/R%20Programming-64748B?style=for-the-badge&logo=r&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-64748B?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-64748B?style=for-the-badge&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-64748B?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    </td>
+  </tr>
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-64748B?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-64748B?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-64748B?style=for-the-badge&logo=mongodb&logoColor=white)
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-64748B?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL%20Workbench-64748B?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-64748B?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-64748B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
 
-### Data Science & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-64748B?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-64748B?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-64748B?style=for-the-badge&logo=jupyter&logoColor=white)
+  <tr>
+    <td align="center"><b>Data Science & Analytics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-64748B?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/R%20Programming-64748B?style=for-the-badge&logo=r&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Excel-64748B?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20BI-64748B?style=for-the-badge&logo=powerbi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter%20Notebook-64748B?style=for-the-badge&logo=jupyter&logoColor=white"/>
+    </td>
+  </tr>
 
-### Data Engineering
-![PySpark](https://img.shields.io/badge/PySpark-64748B?style=for-the-badge&logo=apachespark&logoColor=white)
+  <tr>
+    <td align="center"><b>Data Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PySpark-64748B?style=for-the-badge&logo=apachespark&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-64748B?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-64748B?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-64748B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
 
-### Web Development
-![Django](https://img.shields.io/badge/Django-64748B?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-64748B?style=for-the-badge&logo=flask&logoColor=white)
+  <tr>
+    <td align="center"><b>Web Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Django-64748B?style=for-the-badge&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-64748B?style=for-the-badge&logo=flask&logoColor=white"/>
+    </td>
+  </tr>
 
-### Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-64748B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-64748B?style=for-the-badge&logo=codeblocks&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-64748B?style=for-the-badge&logo=mysql&logoColor=white)
+  <tr>
+    <td align="center"><b>Tools & IDEs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS%20Code-64748B?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter%20Notebook-64748B?style=for-the-badge&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Code::Blocks-64748B?style=for-the-badge&logo=codeblocks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL%20Workbench-64748B?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Excel-64748B?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20BI-64748B?style=for-the-badge&logo=powerbi&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Skill Confidence
+
+<table align="center">
+  <tr>
+    <th>Skill Area</th>
+    <th>Confidence</th>
+    <th>Level</th>
+  </tr>
+  <tr>
+    <td>Python & Data Analysis</td>
+    <td>█████████░</td>
+    <td>90%</td>
+  </tr>
+  <tr>
+    <td>SQL & Databases</td>
+    <td>████████░░</td>
+    <td>80%</td>
+  </tr>
+  <tr>
+    <td>Power BI & Excel</td>
+    <td>███████░░░</td>
+    <td>70%</td>
+  </tr>
+  <tr>
+    <td>R Programming</td>
+    <td>██████░░░░</td>
+    <td>60%</td>
+  </tr>
+  <tr>
+    <td>Web Development</td>
+    <td>█████░░░░░</td>
+    <td>50%</td>
+  </tr>
+  <tr>
+    <td>Big Data / PySpark</td>
+    <td>█████░░░░░</td>
+    <td>50%</td>
+  </tr>
+</table>
