@@ -148,7 +148,6 @@ I love turning raw data into powerful insights and building intelligent solution
 - Applying AI and data science to create positive impact in Cambodia and beyond
 
 ---
----
 
 ## Featured Projects
 
