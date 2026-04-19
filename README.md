@@ -139,3 +139,12 @@ I love turning raw data into powerful insights and building intelligent solution
 </td>
 </tr>
 </table>
+
+---
+
+## Current Focus
+
+- Fine-tuning machine learning and deep learning models
+- Building AI projects that solve real-world problems
+- Exploring data-driven solutions related to the Sustainable Development Goals (SDGs)
+- Applying AI and data science to create positive impact in Cambodia and beyond
