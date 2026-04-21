@@ -191,7 +191,7 @@ I love turning raw data into powerful insights and building intelligent solution
   <a href="mailto:SiengLyheng1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-64748B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sieng-lyheng)">
+  <a href="https://www.linkedin.com/in/sieng-lyheng">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-64748B?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/lyheng01-s">
