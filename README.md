@@ -195,8 +195,8 @@ I love turning raw data into powerful insights and building intelligent solution
   <a href="https://www.linkedin.com/in/sieng-lyheng">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-64748B?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/lyheng01-s">
-    <img src="https://img.shields.io/badge/GitHub-lyheng01--s-64748B?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://lyheng01-s.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-64748B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
