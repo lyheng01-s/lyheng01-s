@@ -159,7 +159,7 @@ I love turning raw data into powerful insights and building intelligent solution
 | **[Hacker News Post Success Prediction](https://github.com/lyheng01-s/hacker-news-post-success-prediction)** | A data science project that scrapes Hacker News posts, analyzes engagement patterns, and uses machine learning models to predict whether posts will get high comments or high upvotes. | Python, Requests, BeautifulSoup, Pandas, Matplotlib, Scikit-learn |
 | **[Car Price Prediction](https://github.com/lyheng01-s/car-price-prediction)** | A machine learning project that predicts Ford used car prices based on model, year, mileage, fuel type, transmission, tax, mpg, and engine size. It also includes a Streamlit web tool for price estimation. | Python, Pandas, Scikit-learn, Multiple Linear Regression, Joblib, Streamlit |
 | **[Alphabet Recognition](https://github.com/lyheng01-s/alphabet-recognition)** | A deep learning project that recognizes handwritten English alphabets from A–Z using CNN and AlexNet-inspired models. It supports early literacy learning through handwriting recognition. | Python, TensorFlow/Keras, CNN, AlexNet-inspired Model, NumPy, Matplotlib |
-
+| [Real-Time Weather API & Analytics System using Medallion Architecture](https://github.com/lyheng01-s/real-time-weather-analytics) | A real-time weather data engineering project that ingests data from WeatherAPI using Kafka, processes it with PySpark, stores it in Bronze, Silver, and Gold layers, and supports analytics and machine learning workflows. | Python, Kafka, PySpark, PostgreSQL, Pentaho PDI, Scikit-learn, Streamlit |
 ---
 
 ## Other Projects
